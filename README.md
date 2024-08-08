@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Faraz Arshad
 - 👀 I’m interested in Machine learning, Computer Vision and NLP 
 - 🌱 I’m currently learning about LLMs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> faraz.arshad125@gmail.com
 
 <!---
